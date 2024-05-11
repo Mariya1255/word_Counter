@@ -24,3 +24,5 @@ console.log(words)
 
 // Print the word count of the sentence to the console
 console.log(`Your sentence word count is ${words.length}`);
+
+console.log('THE END');
